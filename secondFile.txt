@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Added secondFile.txt to git_1 update2_line
 Added secondFile.txt to git_1 update2_line
+=======
+Added secondFile.txt to git_1 update_line
+Added secondFile.txt to git_1 update_line
+>>>>>>> git_2
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
